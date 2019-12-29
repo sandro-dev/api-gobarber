@@ -1,4 +1,4 @@
-# RESTful API of GoBarber application in NodeJS
+# RESTful API of GoBarber app
 
 
 ### Tools
@@ -11,6 +11,8 @@
 - PostgreSQL
 - Bcrypt
 - JWT (JSON Web Token)
+- Multer
+- Date FNS
 - MongoDB
 - Redis
 - Nodemailer
